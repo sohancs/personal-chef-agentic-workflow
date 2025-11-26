@@ -1,0 +1,7 @@
+google-adk
+fastapi
+python-telegram-bot
+requests
+pydantic
+python-dotenv
+litellm
